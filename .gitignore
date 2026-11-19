@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+# banco local (contém senhas e avaliações)
+data/
+
+# planilhas com dados pessoais de alunos
+*.xls
+*.xlsx
+*.csv
+
+.env*
